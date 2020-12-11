@@ -1,1 +1,43 @@
 #
+# Online Resume Caroline Zambon :)
+#
+
+sidebar:
+    about: True
+    education: False
+    
+    
+    # Profile information
+    name: Caroline Zambon
+    tagline: Designer
+    avatar: profile.png
+    
+    # Sidebar links
+    email: cazambon@gmail.com
+    phone: 312 918 0899
+    website: www.sway.com/cazambon
+    linkedin: cazambon
+    github: cazambon
+    
+    languages:
+      - idiom: English
+        level: Fluent
+      
+      - idiom: Portuguese
+        level: Native
+        
+      - idiom: Spanish
+        level: Basic
+        
+    interests:
+      - item: Lego / Harry Potter
+        link:
+        
+      - item: Photography
+        link:
+        
+      - item: Drone Photography
+        link:
+        
+      - item: New Cuisines
+        link:
