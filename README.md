@@ -1,5 +1,4 @@
 # cv
-
 #
 # Online Resume Caroline Zambon :)
 #
