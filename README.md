@@ -1,1 +1,160 @@
 # cv
+
+#
+# Online Resume Caroline Zambon :)
+#
+
+sidebar:
+    about: True
+    education: False
+    
+    
+    # Profile information
+    name: Caroline Zambon
+    tagline: Designer
+    avatar: profile.png
+    
+    # Sidebar links
+    email: cazambon@gmail.com
+    phone: 312 918 0899
+    website: www.sway.com/cazambon
+    linkedin: cazambon
+    github: cazambon
+    
+    languages:
+      - idiom: English
+        level: Fluent
+      
+      - idiom: Portuguese
+        level: Native
+        
+      - idiom: Spanish
+        level: Basic
+        
+    interests:
+      - item: Lego / Harry Potter
+        link:
+        
+      - item: Photography
+        link:
+        
+      - item: Drone Photography
+        link:
+        
+      - item: New Cuisines
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo 
+      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.
+education:
+    - degree: BA in Graphic and Product Design
+      university: University of Sao Paulo (Brazil)
+      time: 2008 - 2013
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: Exchange Student Schoolarship
+      university: Monash University (Australia)
+      time: 2012 - 2013
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: Carlos de Campos
+      university: Graphic Design Technical Course (Brazil)
+      time: 2004 - 2005
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+          
+experiences:
+    - role: Marketing Coordinator / Graphic Designer
+      time: 2019 - Present
+      company: International Property Advisors, Phoenix - AZ
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Graphic Designer
+      time: 2017 - 2019
+      company: The French Pastry School, Chicago - IL
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: Senior Business Analyst
+      time: 2014 - 2016
+      company: Ache Laboratorios, Sao Paulo - Brazil
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+          
+projects:
+    title: College Graduation Final Project
+    intro: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo 
+      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.
+    assignments:
+      - title: prisma
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Adobe Creative Suite
+        level: 98%
+
+      - name: Microsoft Office Suite
+        level: 98%
+
+      - name: Design Research
+        level: 75%
+
+      - name: Sketching &amp; Prototyping
+        level: 65%
+
+      - name: UX Prototyping Tools
+        level: 25%
+
+      - name: Markdown Github Coding
+        level: 25%
